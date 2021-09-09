@@ -8,7 +8,7 @@ namespace GitExer
         {
             Console.WriteLine("Hello World2!");
             Console.WriteLine("World is Mine");
-            Console.WriteLine("Earth is Mine");
+            Console.WriteLine("Mine is Mine");
         }
     }
 }
