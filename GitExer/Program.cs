@@ -7,6 +7,7 @@ namespace GitExer
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World2!");
+            Console.WriteLine("World is Mine");
         }
     }
 }
